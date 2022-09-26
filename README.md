@@ -1,4 +1,4 @@
-### Ola pessoa 👋, tudo bem com você ?
+### Olá pessoa 👋, tudo bem com você ?
 
 ### Eu sou o Jorge, qualquer duvida entre em contato comigo!
 [![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+558499341362)
